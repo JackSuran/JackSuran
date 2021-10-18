@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JackSuran
 - 👀 I’m interested in something about C++
-- 🌱 I’m currently learning QT & MySQL
+- 🌱 I’m currently learning the good Cpp_project in github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
